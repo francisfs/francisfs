@@ -8,6 +8,7 @@
 - ♒ https://www.linkedin.com/in/francisley-fernandes-4b2b64224
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francisfs&show_icons=true&theme=tokyonight)
+<img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisfs&layout=compact&langs_count=7&theme=react" />
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Francis-dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">      
