@@ -1,5 +1,4 @@
 ### Oi, sou mais um apaixonado por tecnologia e programação 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francisfs&show_icons=true&theme=tokyonight)
 
 - 🔭 Atualmente trabalho com banco de dados sql...
 - 🌱 Estou aprendendo dart e flutter...
@@ -8,9 +7,7 @@
 - 📫 Contate-me: francisley.fs@gmail.com
 - ♒ https://www.linkedin.com/in/francis-fs-49043726b/
 
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francisfs&show_icons=true&theme=tokyonight)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Francis-dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">      
