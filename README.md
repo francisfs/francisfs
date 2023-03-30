@@ -16,9 +16,9 @@
   
   <img align="center" alt="Francis-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">  
   <img align="center" alt="Francis-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">  
-  <img align="center" alt="Francis-linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">  
-  <img align="center" alt="Francis-visualStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Francis-linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">   <img align="center" alt="Francis-visualStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
     
+  <br>
   <br>
    
 <div> 
