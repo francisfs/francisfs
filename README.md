@@ -20,8 +20,7 @@
   <img align="center" alt="Francis-visualStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
     
   <br>
-  <br>
- 
+   
 <div> 
   
   <a href="https://www.instagram.com/francisffs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	 
