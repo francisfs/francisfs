@@ -14,9 +14,9 @@
   
   <img align="center" alt="Francis-flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
   
-  <img align="center" alt="Francis-github" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/github">
+  <img align="center" alt="Francis-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
   
-  <img align="center" alt="Francis-flutter" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/linkedin">
+  <img align="center" alt="Francis-linkedin" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/linkedin">
   
   <img align="center" alt="Francis-flutter" height="30" width="40" src="">
   
