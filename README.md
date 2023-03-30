@@ -1,4 +1,5 @@
 ### Oi, sou mais um apaixonado por tecnologia e programação 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francisfs&show_icons=true&theme=tokyonight)
 
 - 🔭 Atualmente trabalho com banco de dados sql...
 - 🌱 Estou aprendendo dart e flutter...
@@ -6,6 +7,9 @@
 - 💬 Sou técnico em desenvolvimento de sistemas.
 - 📫 Contate-me: francisley.fs@gmail.com
 - ♒ https://www.linkedin.com/in/francis-fs-49043726b/
+
+
+
 
 
 <div style="display: inline_block"><br>
