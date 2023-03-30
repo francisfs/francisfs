@@ -5,7 +5,7 @@
 - 👯 Estou colaborando com um projeto do QaCoders...
 - 💬 Sou técnico em desenvolvimento de sistemas.
 - 📫 Contate-me: francisley.fs@gmail.com
-- ♒ https://www.linkedin.com/in/francis-fs-49043726b/
+- ♒ https://www.linkedin.com/in/francisley-fernandes-4b2b64224
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francisfs&show_icons=true&theme=tokyonight)
 
@@ -26,7 +26,7 @@
 <div> 
   <a href="https://www.instagram.com/francisffs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	 
   <a href = "mailto:francisley.fs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  <a href="https://www.linkedin.com/in/francis-fs-49043726b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/francisley-fernandes-4b2b64224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
