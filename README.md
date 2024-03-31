@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalho com banco de dados sql..
 - 🌱 Estou aprendendo dart e flutter...
-- 👯 Estou colaborando com um projeto do QaCoders...
 - 💬 Desenvolvedor de sistemas.
 - 📫 Contate-me: francisley.fs@gmail.com
 - ♒ https://www.linkedin.com/in/francisley-fernandes-4b2b64224
